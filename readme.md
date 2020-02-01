@@ -1,13 +1,4 @@
-# react.js coding challenge
-
-Dear candidate,
-
-Thank you for accepting our invitation to this coding challenge, which we only send
-out to candidates that look very promising! So, congratulations!
-
-## Your tasks
-
-- read these instructions carefully
+# react.js 
 - this project contains the boilerplate for a simple react app. Extend the code
   to render three links: "HOME", "MODELER" and "FRAMEWORKS" as part of a `Navigation` component.
 - use `react-router` to implement the required routes: `/` to render `HomePage`, `/modeler` to render
@@ -23,17 +14,3 @@ out to candidates that look very promising! So, congratulations!
   term.
 - An empty search input should always make the list show all items (title & description).
 - If no title or description matched show an empty state (e.g.: no results found)
-
-## Note
-
-- don't forget to save your changes by pressing above save button (or cmd+s), which will also
-  fork the project and generate a new project URL.
-- Let us know when you are done by replying to our email in which we invited you to this challenge.
-  Don't forget to include the link to your codesandbox project.
-- there is no time limit as we generally don't believe that stress will lead to better results.
-  However, it should take you less than 1 hour to complete this exercise.
-- We'll validate your submission by checking if your code is doing what it should do.
-  We'll also inspect your style and attention to detail. So make sure your code is nicely structured,
-  and generally readable. And the UI should be user-friendly and pleasant to look at.
-
-HAPPY CODING! :-)
