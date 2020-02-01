@@ -1,4 +1,4 @@
-# react.js 
+# react.js - routing, dymanic search, displayof  elements from arrays
 - this project contains the boilerplate for a simple react app. Extend the code
   to render three links: "HOME", "MODELER" and "FRAMEWORKS" as part of a `Navigation` component.
 - use `react-router` to implement the required routes: `/` to render `HomePage`, `/modeler` to render
